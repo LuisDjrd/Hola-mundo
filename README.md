@@ -1,2 +1,2 @@
 # Hola-mundo
-¡Nuevo comenzó y nueva aventura!... ¿Te unes?..
+¡Nuevo comien y nueva aventura !... ¿Te unes?..
